@@ -2,4 +2,4 @@
 ---
 # A Machine Learning Application to Predicting Customer Churn
 
-![Overall Framework](https://i.ibb.co/jMyD0vf/Overall-Framework.jpg)
+![Overall Framework](https://i.ibb.co/c8MFc7x/2.jpg)
