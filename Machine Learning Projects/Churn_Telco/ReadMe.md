@@ -25,3 +25,10 @@ The end outcome is a both a specific solution to a customer churn use case, with
 -	Train a machine learning model to predict labels from features
 -	Use a pre-built solution with common libraries
 -	Optimize model in line with business objectives
+---
+
+## Results
+Final Confusion Matrix
+
+
+Feature Importances
