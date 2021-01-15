@@ -14,17 +14,11 @@ The end outcome is a both a specific solution to a customer churn use case, with
 ## Framework Steps
 
 1.	**Prediction engineering**
--	State business need
--	Translate business requirement into machine learning task by specifying problem parameters
--	Develop set of labels along with cutoff times for supervised machine learning
+
 2.	**Feature Engineering**
--	Create features - predictor variables - out of raw data
--	Use cutoff times to make valid features for each label
--	Apply automated feature engineering to automatically make hundreds of relevant, valid features
+
 3.	**Modeling**
--	Train a machine learning model to predict labels from features
--	Use a pre-built solution with common libraries
--	Optimize model in line with business objectives
+
 ---
 
 ## Results
